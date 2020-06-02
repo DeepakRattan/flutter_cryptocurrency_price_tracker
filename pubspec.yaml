@@ -11,6 +11,8 @@ dependencies:
     sdk: flutter
 
   cupertino_icons: ^0.1.2
+  # 1. Added the http package as a dependency
+  http: ^0.12.1
 
 dev_dependencies:
   flutter_test:

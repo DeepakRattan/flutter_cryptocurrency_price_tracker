@@ -1,4 +1,4 @@
-import 'package:cryptocurrencypricetracker/price_screen.dart';
+import 'package:cryptocurrencypricetracker/screens/price_screen.dart';
 import 'package:flutter/material.dart';
 
 void main() => runApp(MyApp());
